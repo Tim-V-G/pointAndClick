@@ -1,0 +1,1 @@
+document.getElementById("Maintitle").innerText = "Click and Piont Game"
